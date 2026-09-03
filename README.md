@@ -1,4 +1,4 @@
-## ArgOS SD Unlocker
+## Argent SD Unlocker
 <p align="center">
   <img src="https://img.shields.io/badge/version-1.2.0-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/platform-Linux-orange?style=for-the-badge&logo=linux" />
@@ -85,7 +85,7 @@ python3 usr/share/argos-sd-unlocker/sd_unlocker.py
 # Uso
 
 - Conecta tu tarjeta SD
-Abre ArgOS SD Unlocker desde el menú de aplicaciones
+Abre Argent SD Unlocker desde el menú de aplicaciones
 Haz clic en Actualizar dispositivos — aparecerá tu tarjeta en el selector
 Elige la acción deseada — se pedirá tu contraseña de administrador via el diálogo gráfico del sistema
 
@@ -103,12 +103,12 @@ Si tiene éxito, haz backup de tus datos antes de reformatear
 
 ```
 Arquitectura
-argos-sd-unlocker/
+argent-sd-unlocker/
 ├── usr/
 │   ├── bin/
-│   │   └── argos-sd-unlocker          # Lanzador
+│   │   └── argent-sd-unlocker          # Lanzador
 │   └── share/
-│       ├── argos-sd-unlocker/
+│       ├── argent-sd-unlocker/
 │       │   ├── sd_unlocker.py         # Aplicación GTK4/libadwaita
 │       │   └── sd_unlocker_helper     # Helper bash (ejecutado via pkexec)
 │       ├── applications/
