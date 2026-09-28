@@ -128,15 +128,23 @@ bashgit clone https://github.com/Tavo78ok/argos-sd-unlocker.git
 cd argos-sd-unlocker
 dpkg-deb --build build argos-sd-unlocker_1.2.0_all.deb
 
-- Parte del ecosistema ArgOS
-ArgOS SD Unlocker es parte de ArgOS Platinum Edition, una distribución Linux basada en Debian con un conjunto de herramientas nativas desarrolladas con GTK4/libadwaita.
+- Parte del ecosistema OpenArgentOS 
+Argent SD Unlocker es parte de OpenArgentOS, una distribución Linux basada en Debian con un conjunto de herramientas nativas desarrolladas con GTK4/libadwaita.
 Otras apps del ecosistema:
 
 Melodia — Reproductor de música con EQ y letras sincronizadas
-ArgOS Tag Studio — Editor de etiquetas MP3/Opus/FLAC
+ArgentOS Tag Studio — Editor de etiquetas MP3/Opus/FLAC
 FFmpeg Studio — Conversor multimedia GTK4
 RsgainGui — Frontend para normalización de volumen
 
+## Colaborar:
+
+**🇦🇷 Desde Argentina (Mercado Pago):**
+- 💳 Alias MP: `tavo.78.ok`
+- 🔗 CVU: `0000003100099682904311`
+
+**🌎 Desde el exterior (PayPal):**
+- 💙 [paypal.me/GustavoCuevas582](https://paypal.me/GustavoCuevas582)
 
 Licencia
 GPL-3.0 © Andrés (Tavo78ok)
